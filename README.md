@@ -6,7 +6,6 @@ Este projeto é uma landing page simples para uma empresa fictícia. A página �
 
     HTML5
     CSS3
-    JavaScript
 
 ## 🖥️ Pré-Visualização
 
