@@ -9,6 +9,18 @@ Este projeto é uma landing page simples para uma empresa fictícia. A página �
     CSS3
 ```
 
+## 📁 Como baixar e executar o projeto
+
+Para baixar o projeto, basta seguir os seguintes passos:
+
+1. Clone o repositório em sua máquina:
+
+```
+git clone https://github.com/Yreidn/landing-page.git
+```
+
+2. Abra o arquivo index.html em seu navegador.
+
 ## 🖥️ Pré-Visualização
 
 Acesse o seguinte link para visualizar um exemplo da landing page em ação:
