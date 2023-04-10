@@ -4,11 +4,15 @@ Este projeto é uma landing page simples para uma empresa fictícia. A página �
 
 ## 🛠️ Tecnologias Utilizadas
 
+```
     HTML5
     CSS3
+```
 
 ## 🖥️ Pré-Visualização
 
 Acesse o seguinte link para visualizar um exemplo da landing page em ação:
 
+```
 https://yreidn.github.io/landing-page/
+```
