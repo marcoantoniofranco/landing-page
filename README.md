@@ -16,7 +16,7 @@ Para baixar o projeto, basta seguir os seguintes passos:
 1. Clone o repositório em sua máquina:
 
 ```
-git clone https://github.com/Yreidn/landing-page.git
+git clone https://github.com/marcoantoniofranco/landing-page.git
 ```
 
 2. Abra o arquivo index.html em seu navegador.
@@ -26,5 +26,5 @@ git clone https://github.com/Yreidn/landing-page.git
 Acesse o seguinte link para visualizar um exemplo da landing page em ação:
 
 ```
-https://yreidn.github.io/landing-page/
+https://marcoantoniofranco.github.io/landing-page/
 ```
